@@ -26,9 +26,10 @@ This project utilizes the YOLOv5 object detection algorithm and the DeepSORT obj
 - `collections`: For using `deque` data structure.
 - `yaml`: For parsing YAML configuration files.
 
-## Result demonstration
+## Result Demonstration:
 ![4_画板 1](https://user-images.githubusercontent.com/70087271/235362239-fe5df122-bb43-4419-9619-64b2372f9e8d.jpg)
-**Camera usage advice**
+
+**Camera usage advice**:
 1. **720p Webcam (RGB):** Ample outdoor lighting, allowing for capturing full-body shots.
 2. **120p Infrared Camera (Gray):** An indoor environment with low room temperature, or an outdoor environment at night. Avoid brightly lit situations.
 3. **120p Infrared Camera (Normal):** An indoor environment with low or medium room temperature, or an outdoor environment at night. Avoid brightly lit situations
