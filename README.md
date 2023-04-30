@@ -35,6 +35,7 @@ This project utilizes the YOLOv5 object detection algorithm and the DeepSORT obj
 
 ![3-01](https://user-images.githubusercontent.com/70087271/235364248-50f863d9-aa36-498c-9a41-803314acabc0.jpg)
 
+PS:Thanks to George Verghese and Jam Kim for their contributions during the video collection
 
 
 
